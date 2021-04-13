@@ -43,7 +43,7 @@ Technical steps:
 2) Web-Scrapping of Trading Economics for understand through the main indicators (e.g GDP) the perspective for the nexts years for the economies related to the DXY index, providing a Macroeconomic analysis.
 3) We added the social layer through Analyze the sentiment using Spark to collect in time data the Tweets related to DXY posted on StockTwits, using its API for requests. (Tools : Python, Apache Spark,Libraries: PySpark, TextBlob, googletrans, unidecode)
 
-### [Fraud Detection](https://github.com/jgoncsilva/Fraud-Detection-BFCompany)
+### [Fraud Detection](https://github.com/jgoncsilva/Fraud-Detection-BFCompany)(Private)
 In progress...
   * Machine Learning and taking fraud detection to the next level. Companies are reducing their costs with detecting fraudulent transactions, while companies providing theses types of services are increasing thier income.
 In this project, I built a Machine Learning classifier to label fraudulent transactions with 99.7% of accuracy.
@@ -51,12 +51,12 @@ The performance of this model would bring revenue of U$898 millions according to
   * Repository: https://github.com/jgoncsilva/Fraud-Detection-BFCompany
 
   
-### [Churn Prediction](https://github.com/jgoncsilva/Churn-Prediction)
-In progress...
-
+### [Churn Prediction](https://github.com/jgoncsilva/Churn-Prediction)(Private)
+*Hey Recruiter ! Ask for ipynb or pdf files i will invite you to see the repo
 
 ### [Financial Techniques using Python ML](https://github.com/jgoncsilva/Python-ML-for-Finance)
-In progress ... 
+Python for Financial Analysis, CAPM, Stock Markets Analysis and Visualization, Asset Allocation, Monte Carlo Simulation, Portfolio Optimization, and Trading with Momentum, Bank Market Segmentation
+ 
 ## :bar_chart: Data Analytics & Python Development Projects
 
 ### [Rossmann Store - Forescasting Sales](https://github.com/jgoncsilva/Forecast-Store-Sales---Rossman)

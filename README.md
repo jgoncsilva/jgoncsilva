@@ -7,7 +7,7 @@
 
 ## Jhonatas Gonçalo Silva 
 
-## :bar_chart:   Data Quality Analyst at Santander Global Operations 
+## :bar_chart:   Data Analyst at Teleperformance 
 
 
 
